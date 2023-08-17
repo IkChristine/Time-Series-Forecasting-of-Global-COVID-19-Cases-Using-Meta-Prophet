@@ -2,7 +2,7 @@
 
 This project analyzes the transmission of corona virus across the globe and train a time-series forcasting model (prophet) to get the projection of corona virus-related cases for the next month in the United States.
 
-Prophet is a procedure for forcasting time series data based on an additive regression model where non-linear trends are fit with yearly, weekly, and deaily seasonality plus holiday effects.
+Prophet is a procedure for forcasting time series data based on an additive regression model where non-linear trends are fit with yearly, weekly, and daily seasonality plus holiday effects.
 
 *Data Source*
 - https://www.kaggle.com/datasets/sambelkacem/covid19-algeria-and-world-dataset
